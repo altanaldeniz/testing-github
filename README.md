@@ -1,2 +1,2 @@
 # testing-github
-testing description
+lorem ipsum
